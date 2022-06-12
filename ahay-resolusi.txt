@@ -2,3 +2,4 @@ Ahayde Resolusi
 - Buat web portfolio/biodata
 - Buat web contoh customer untuk portfolio
 - Buat web untuk postingan rutin
+- Membuat postingan di tiap ada hari besar Nasional
